@@ -14,7 +14,7 @@ It contains the report and the link to our video game *Coolor* created during on
 ## Our Team
 | Name                    |                                     GitHub username |
 | :---------------------- | --------------------------------------------------: |
-| Daniel Demko            | [TruddyTheDuddi](https://github.com/TruddyTheDuddi) |
+| Daniel D.               | [TruddyTheDuddi](https://github.com/TruddyTheDuddi) |
 | Yonah Bôle              |                   [ybole](https://github.com/ybole) |
 | Alexandre Yohann Riou   |         [shanzhaiii](https://github.com/shanzhaiii) |
 | Maxime Zammit           |           [MaximeZmt](https://github.com/MaximeZmt) |
